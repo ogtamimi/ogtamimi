@@ -2,14 +2,11 @@
 
 ###
 
-<h4 align="left">🐧 Kali Linux Toolsets<br>🤖 AI Agents<br>🐳 Custom Docker Environments<br>🕸️ Web App & CTF Exploitation<br>🔧 Embedded Linux / Raspberry Pi Security Devices</h4>
+
 
 ###
 
 <div align="center">
-  <a href="https://discord.com/users/517978442046898177" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="82" height="70" alt="discord logo"  />
-  </a>
   <a href="https://www.linkedin.com/in/ogtamimi/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="82" height="70" alt="linkedin logo"  />
   </a>
