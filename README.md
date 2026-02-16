@@ -1,4 +1,4 @@
-<h2 align="center">Hello Friends , I'am Omar Al Tamimi<br>AI-Driven CyberSecurity specialist • Security Researcher</h2>
+<h2 align="center">Hello Friends , I'am Omar Al Tamimi<br>AI-Driven CyberSecurity specialist • SOC Analyst</h2>
 
 ###
 
