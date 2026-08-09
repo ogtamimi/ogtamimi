@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="banner_bw.gif" alt="Banner">
-</p>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=34&duration=3000&pause=800&color=FFFFFF&center=true&vCenter=true&width=900&lines=Hello+Friends,+it's+Omar+Al+Tamimi" />
