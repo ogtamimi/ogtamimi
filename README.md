@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <b>AI-Driven CyberSecurity Specialist • SOC Analyst</b>
+  <b>IT & Cybersecurity Professional</b>
 </p>
 
 
